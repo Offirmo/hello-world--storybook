@@ -4,10 +4,11 @@
 https://storybook.js.org/docs/get-started/install
 
 
-Note: running `npx storybook@latest init` in an empty folder works!
-
-
-
-npm create vite@latest
-cd xyz
+```
+## in an empty folder:
 npx storybook@latest init
+## then select your framework and bundler (ex. react + vite)
+
+## then
+npm run storybook
+``` 
